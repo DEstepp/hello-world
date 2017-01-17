@@ -1,2 +1,4 @@
 # hello-world
-Another repository 
+Another repository
+
+Just following the Github tutorial on creating a repository and starting my journey into coding.
